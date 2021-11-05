@@ -10,6 +10,7 @@ namespace HelloWorld
             System.Console.WriteLine("Witam Serdecznie");
             System.Console.WriteLine("Test14");
             System.Console.WriteLine("qwertyuiop");
+            System.Console.WriteLine("asdasdasdasdsa");
         }
     }
 }
